@@ -35,3 +35,10 @@ food-retail-management-system/
 ├── mvnw.cmd
 ├── pom.xml
 └── README.md
+## ⚙️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Abhinav13092005/food-retail-management-system.git
+
