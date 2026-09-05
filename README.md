@@ -42,3 +42,16 @@ food-retail-management-system/
 ```bash
 git clone https://github.com/Abhinav13092005/food-retail-management-system.git
 
+### 2. Open the Project
+
+```bash
+cd food-retail-management-system
+3. Configure the Database
+open..
+src/main/resources/application.properties
+4. Run the Application
+mvnw.cmd spring-boot:run
+5. Open in Browser
+http://localhost:8080
+
+
