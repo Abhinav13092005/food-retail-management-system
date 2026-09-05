@@ -2,7 +2,7 @@ FROM eclipse-temurin:17-jdk
 
 WORKDIR /app
 
-COPY . .
+COPY food-retail/ .
 
 RUN chmod +x mvnw
 
